@@ -22,7 +22,7 @@ I first used GIS as a tool for science while working as a research assistant for
 
 My work this summer with the environmental remote sensing group SkyTruth fell somewhere in between the spectrum of GIS as a tool and GIS as a science. I spent a few weeks creating an automated tool that would tile and feed satellite imagery into a coworker’s machine learning neural network model to identify oil well pads. Once run through the machine learning model the tool would stitch and georeference the images using GDAL python API. While I wouldn't qualify this project as science, I was aiding in the creation of new tools for others to use; several iterations of the script needed to be written before it could be successfully implemented and it was a communal enterprise. This likey falls within the gray zone of toolbuilding. 
 
-![bio](assets/images/bio-photo.jpg)
+![](/assets/images/SlackPhoto.jpg)
 
 Ultimately, the perception of GIS as a tool or science hinges on the user's purpose (Rao, 1993). As a student, I employed GIS as a tool for learning projects. In my role as a researcher, I engaged in scientific pursuits by using GIS to address spatial questions. In the geospatial workforce, I found myself operating within the ambiguous territory between GIS as a tool and GIS as a science. Personally, I embrace this ambiguity and believe that allowing GIS to exist in this gray zone offers the most opportunities for relevant applications and scientific discoveries.
 
