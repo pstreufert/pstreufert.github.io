@@ -1,5 +1,5 @@
 ---
-title: "GIS: Science or Tool"
+title: "GIS: Science or Tool?"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -8,7 +8,7 @@ tags:
   - GIScience
 ---
 
-Geographic Information Systems (**GIS**) brought large and easily analyzed spatial data to the world of geography, introducing a host of powerful applications for research, commercial, and organizational fields. As GIS gained prominence, academia posed the question: Is GIS a distinct science in its own right, or just a powerful tool that can be used to advance scientific exploration? This ambiguity has led to the emergence of three distinct schools of thought among GIS users.
+Geographic Information Systems (GIS) brought large and easily analyzed spatial data to the world of geography, introducing a host of powerful applications for research, commercial, and organizational fields. As GIS gained prominence, academia posed the question: Is GIS a distinct science in its own right, or just a powerful tool that can be used to advance scientific exploration? This ambiguity has led to the emergence of three distinct schools of thought among GIS users.
 
 **1. GIS as a Tool:** Some argue that GIS is primarily a tool, it can be used to facilitate research and further scientific exploration, but lacks distinction from similar fields to situate itself as a stand alone science.
 
