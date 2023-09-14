@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Pete Streufert"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/SlackPhoto.jpg"
+  bio    : "Middlebury College geography major on a geospatial learning journey."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
