@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-This is a github repository to host projects for GEOG 0371
+I am a geography major at Middlebury College working to build a toolkit of geospatial tools. I hope this site can be used to document my learning process and share achivments with others. 
