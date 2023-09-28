@@ -1,13 +1,4 @@
----
-title: "Reproduction Plan for Chakraborty, 2020"
-excerpt_separator: "<!--more-->"
-categories:
-  - Blog
-tags:
-  - COVID
-  - OpenSource
-  - Reproduction
----
+
 # Planned revisions to reproduction of ....
 Social inequities in the distribution of COVID-19: An intra-categorical
 analysis of people with disabilities in the U.S.
