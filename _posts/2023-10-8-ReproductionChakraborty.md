@@ -8,7 +8,7 @@ tags:
   - OpenSource
   - Reproduction
 ---
-# Revisions to reproduction of ....
+# Revisions to reproduction of Chakraborty (2021)
 Social inequities in the distribution of COVID-19: An intra-categorical
 analysis of people with disabilities in the U.S.
 Jayajit Chakraborty, PhD
